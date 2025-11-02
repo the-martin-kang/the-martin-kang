@@ -1,5 +1,5 @@
 ### 안녕하세요 bioinformatics를 공부하는 강민준입니다.👋
-
+<!--
 **shinplest/shinplest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
